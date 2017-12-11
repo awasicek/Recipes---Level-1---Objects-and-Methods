@@ -5,5 +5,6 @@
 	<classpathentry kind="lib" path="/Users/awasicek/Desktop/League/Class - Level 0/League Jars/robot.jar"/>
 	<classpathentry kind="lib" path="/Users/awasicek/Desktop/League/Class - Level 0/League Jars/Tortoise.jar"/>
 	<classpathentry kind="lib" path="gridworld.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
